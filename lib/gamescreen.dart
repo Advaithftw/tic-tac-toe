@@ -292,7 +292,7 @@ Widget build(BuildContext context) {
         Padding(
           padding: const EdgeInsets.all(20),
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.center, // Adjusted alignment
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Expanded(
                 flex: 1,
