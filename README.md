@@ -1,3 +1,3 @@
 # tic_toe
 
-A new Flutter project.
+Code can be run by opening in VS code and using either physical device or emulator from android studio.
